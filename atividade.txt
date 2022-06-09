@@ -1,0 +1,22 @@
+criar formulario para cadastrar pessoas
+- deve ter:
+	nome
+	sobrenome
+	data de nascimento
+	cor favorita
+
+quando preenchido e clicado em adicioanr, adicionar a uma lista
+se algum dado não for preenchido mostre uma mensagem de erro falando qual campo não foi preenchido
+após adicionado, o formulario deve ser limpo e baixo do formulario deve-se ser exibida a lista de pessoas cadastradas.
+-Nessa lista deve aparecer:
+	nome completo
+	idade
+	ao redor do nome e idade mostrar a cor favorita
+deve ser possivel clicar no botão de editar e quand oclicado deve-se trazer todos os dados da pessoa para o formulario
+e o botão de adicionar deve ser trocado por "editar"
+
+quando cliicado no botão "Editar" devem ser alterados os dados da pessoa na lista e o botão de ediatr deve retornar a ser "adicionar"
+quando clicar no botão excluir deve ser exebida uma mensagem de confirmação para expcluir a pessoa
+se a resposta for sim, deve remover a pessoa da lista
+se for não, fechar a mensagem
+
